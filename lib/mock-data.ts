@@ -748,7 +748,7 @@ export const customers: Customer[] = [
         impact: "neutral",
         weight: 12,
       },
-    ],
+    ], 
     nextBestAction: {
       title: "Proactive seasonal working-capital check-in",
       detail: "Offer a seasonal overdraft ahead of the expected Q3 dip.",
